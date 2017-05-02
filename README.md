@@ -1,6 +1,6 @@
 # Human-Resources-Analytics
 Predicting which valuable employees will leave a certain company prematurely.
-I've included the dataset in this repo. It can also be found at kaggle.
+I've included the dataset in this repo. It can also be found on kaggle.
 
 Fields in the dataset include:
 
